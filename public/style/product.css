@@ -1,0 +1,27 @@
+.bg-header {
+    background-image: url('../img/header-bg.png');
+    background-size: cover;
+}
+
+.card-icon {
+    top: -92px;
+    right: 55px;
+}
+
+.part-vid-capt {
+    z-index: -1;
+    top: -29px;
+    left: -20px;
+}
+
+.vid-backg {
+    z-index: -1;
+    top: -20px;
+    left: -20px;
+}
+
+.vid-backg-sec {
+    z-index: -1;
+    bottom: -20px;
+    right: -20px;
+}
